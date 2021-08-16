@@ -22,7 +22,7 @@ HR will select the available trainer according to each training requirement. Onc
 
  ![](img/img3.png)
  
-## view of project
+## View of project
 
 ### EMAIL Functionality
 
