@@ -8,43 +8,42 @@ HR will select the available trainer according to each training requirement. Onc
 -HTML
 -CSS
 
-##System Model
+## System Model
  
- ###System Architecture
+ ### System Architecture
  
- pic 1
+ ![](img/img1.png)
  
  ### E-R Diagram 
  
- pic 2
+ ![](img/img2.png)
  
 ## User Interface
 
-pic 3
-
-##view of project
+ ![](img/img3.png)
+ 
+## view of project
 
 - EMAIL Functionality
 In this project to send email,I performed few Emails functionality those are as follows:
 
-• Set up SMTP server.
-• App specific password generation
-• Retrieving trainer’s Email ID from database
-• Call the PDF Generator function and attach the PDF to the Confirmation mail.
+-• Set up SMTP server.
+-• App specific password generation
+-• Retrieving trainer’s Email ID from database
+-• Call the PDF Generator function and attach the PDF to the Confirmation mail.
 
-email photo 4
+ ![](img/img4.png)
  
 - PDF Functionality
 
-• Calling PDF generator function
-• FPDF
-• Fetching information from database that has to be printed in the PDF.
-• The printed information will be stored in “Invoice pdf”.
+-• Calling PDF generator function
+-• FPDF
+-• Fetching information from database that has to be printed in the PDF.
+-• The printed information will be stored in “Invoice pdf”.
  
  
- pdf photo 5
- 
+  ![](img/img5.png)
 
-##CONCLUSION
+## CONCLUSION
 
 I have developed this project during my acadamic internship program.
