@@ -1,5 +1,5 @@
 # Invoice-generator
-The invoice generation is a web application that, the HR of the company uses this application to send the details of the training and invoice to trainers.
+Invoice generation is a web application. The HR of the company uses this application to send the details of the training and invoice to trainers.
 HR will select the available trainer according to each training requirement. Once the details are entered by HR in the web application form and submitted, a confirmation mail along with the invoice is sent to the appointed trainer email address.
 
 ## Technologies used
