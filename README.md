@@ -14,7 +14,7 @@ HR will select the available trainer according to each training requirement. Onc
  
  ![](img/img1.png)
  
- ### E-R Diagram 
+ ### E-R Diagram
  
  ![](img/img2.png)
  
@@ -26,11 +26,11 @@ HR will select the available trainer according to each training requirement. Onc
 
 ### EMAIL Functionality
 
-In this project to send email,I performed few Emails functionality those are as follows:
+In this project to send email,I performed a few Emails functionality those are as follows:
 
-* Set up SMTP server.
-* App specific password generation
-* Retrieving trainer’s Email ID from database
+* Set up an SMTP server.
+* App-specific password generation
+* Retrieving trainer’s Email ID from the database
 * Call the PDF Generator function and attach the PDF to the Confirmation mail.
 
  ![](img/img4.png)
@@ -39,12 +39,12 @@ In this project to send email,I performed few Emails functionality those are as 
 
 * Calling PDF generator function
 * FPDF
-* Fetching information from database that has to be printed in the PDF.
+* Fetching information from the database that has to be printed in the PDF.
 * The printed information will be stored in “Invoice pdf”.
  
- 
   ![](img/img5.png)
+  
+  
+## Purpose of the project
 
-## CONCLUSION
-
-I have developed this project during my acadamic internship program.
+I have developed this project during my academic internship program.
